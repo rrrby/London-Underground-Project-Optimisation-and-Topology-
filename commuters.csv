@@ -1,0 +1,201 @@
+commuter_id,start_id,start_name,end_id,end_name
+1,32,Caledonian Road,189,Snaresbrook
+2,99,Highgate,42,Chiswick Park
+3,124,Latimer Road,204,Stratford
+4,222,Upton Park,17,Bayswater
+5,130,Loughton,108,Hounslow West
+6,176,Rickmansworth,64,Edgware
+7,198,South Woodford,195,South Kenton
+8,164,Piccadilly Circus,69,Euston
+9,59,East Acton,99,Highgate
+10,23,Bond Street,75,Finsbury Park
+11,147,Northfields,178,Royal Oak
+12,96,Hendon Central,217,Tufnell Park
+13,60,Eastcote,110,Ickenham
+14,210,Tooting Bec,106,Hounslow Central
+15,94,Wood Lane,189,Snaresbrook
+16,93,Harrow-On-The-Hill,200,Stanmore
+17,67,Elm Park,158,Oval
+18,27,Bow Road,88,Hammersmith (D&P)
+19,181,Ruislip Manor,36,Chalfont & Latimer
+20,6,Amersham,31,Burnt Oak
+21,103,Holland Park,204,Stratford
+22,172,Ravenscourt Park,213,Tottenham Hale
+23,190,South Ealing,3,Aldgate
+24,172,Ravenscourt Park,129,London Bridge
+25,233,West Acton,4,Aldgate East
+26,97,High Barnet,230,Watford
+27,121,Ladbroke Grove,130,Loughton
+28,116,Kew Gardens,152,Northwood
+29,68,Epping,100,High Street Kensington
+30,15,Barkingside,163,Perivale
+31,190,South Ealing,154,Notting Hill Gate
+32,124,Latimer Road,170,Queens Park
+33,211,Tooting Broadway,167,Preston Road
+34,56,Ealing Broadway,31,Burnt Oak
+35,254,Brixton,23,Bond Street
+36,176,Rickmansworth,215,Tower Hill
+37,269,Upminster,175,Regents Park
+38,101,Hillingdon,215,Tower Hill
+39,173,Rayners Lane,122,Lambeth North
+40,61,East Finchley,272,Clapton
+41,258,Heathrow Terminal Five,161,Park Royal
+42,147,Northfields,43,Chorleywood
+43,176,Rickmansworth,92,Harrow & Wealdstone
+44,267,Richmond,119,Kingsbury
+45,23,Bond Street,245,Wimbledon Park
+46,259,Southwark,262,North Greenwich
+47,157,Osterley,78,Gloucester Road
+48,202,Stockwell,64,Edgware
+49,231,Wembley Central,180,Ruislip Gardens
+50,239,West Kensington,169,Queensbury
+51,236,West Finchley,44,Clapham Common
+52,26,Bounds Green,190,South Ealing
+53,148,North Harrow,170,Queens Park
+54,25,Boston Manor,244,Willesden Green
+55,81,Goodge Street,225,Walthamstow
+56,105,Hornchurch,235,West Brompton
+57,151,Northwick Park,166,Plaistow
+58,33,Camden Town,83,Great Portland Street
+59,230,Watford,194,South Kensington
+60,125,Leicester Square,10,Arsenal
+61,39,Embankment,64,Edgware
+62,65,Edgware Road (Circle),53,Dagenham Heathway
+63,212,Tottenham Court Road,67,Elm Park
+64,269,Upminster,171,Queensway
+65,184,St Johns Wood,196,South Ruislip
+66,244,Willesden Green,200,Stanmore
+67,44,Clapham Common,57,Ealing Common
+68,55,Dollis Hill,140,Moor Park
+69,162,Parsons Green,191,Southfields
+70,103,Holland Park,219,Turnpike Lane
+71,94,Wood Lane,119,Kingsbury
+72,144,Newbury Park,14,Barking
+73,96,Hendon Central,192,Southgate
+74,204,Stratford,100,High Street Kensington
+75,153,Northwood Hills,19,Belsize Park
+76,84,Greenford,161,Park Royal
+77,259,Southwark,58,Earls Court
+78,243,White City,271,Sutton
+79,264,Canning Town,167,Preston Road
+80,262,North Greenwich,265,West Hampstead
+81,45,Clapham North,238,West Harrow
+82,117,Kilburn,96,Hendon Central
+83,256,Heathrow 123,36,Chalfont & Latimer
+84,188,Sloane Square,180,Ruislip Gardens
+85,119,Kingsbury,80,Goldhawk Road
+86,41,Chigwell,267,Richmond
+87,253,Vauxhall,172,Ravenscourt Park
+88,105,Hornchurch,166,Plaistow
+89,179,Ruislip,249,Hammersmith (H&C)
+90,120,Knightsbridge,263,Canary Wharf
+91,211,Tooting Broadway,267,Richmond
+92,81,Goodge Street,190,South Ealing
+93,172,Ravenscourt Park,253,Vauxhall
+94,96,Hendon Central,27,Bow Road
+95,134,Marble Arch,58,Earls Court
+96,38,Chancery Lane,142,Mornington Crescent
+97,42,Chiswick Park,156,Old Street
+98,163,Perivale,71,Fairlop
+99,250,Edgware Road (Bakerloo),155,Oakwood
+100,145,North Acton,89,Hampstead
+101,15,Barkingside,207,Swiss Cottage
+102,91,Harlesden,197,South Wimbledon
+103,154,Notting Hill Gate,222,Upton Park
+104,181,Ruislip Manor,66,Elephant & Castle
+105,261,Canada Water,262,North Greenwich
+106,265,West Hampstead,81,Goodge Street
+107,199,Stamford Brook,153,Northwood Hills
+108,147,Northfields,1,Acton Town
+109,169,Queensbury,17,Bayswater
+110,15,Barkingside,166,Plaistow
+111,170,Queens Park,45,Clapham North
+112,202,Stockwell,59,East Acton
+113,173,Rayners Lane,44,Clapham Common
+114,57,Ealing Common,29,Bromley By Bow
+115,172,Ravenscourt Park,190,South Ealing
+116,213,Tottenham Hale,182,Russell Square
+117,231,Wembley Central,189,Snaresbrook
+118,204,Stratford,247,Wood Green
+119,199,Stamford Brook,144,Newbury Park
+120,252,Pimlico,193,South Harrow
+121,234,Westbourne Park,123,Lancaster Gate
+122,93,Harrow-On-The-Hill,226,Wanstead
+123,119,Kingsbury,59,East Acton
+124,8,Archway,54,Debden
+125,75,Finsbury Park,216,Charing Cross
+126,238,West Harrow,233,West Acton
+127,161,Park Royal,152,Northwood
+128,67,Elm Park,154,Notting Hill Gate
+129,134,Marble Arch,170,Queens Park
+130,244,Willesden Green,150,North Wembley
+131,227,Warren Street,262,North Greenwich
+132,88,Hammersmith (D&P),166,Plaistow
+133,246,Woodford,163,Perivale
+134,72,Farringdon,99,Highgate
+135,247,Wood Green,40,Chesham
+136,167,Preston Road,130,Loughton
+137,270,Cheam,105,Hornchurch
+138,165,Pinner,103,Holland Park
+139,48,Colindale,186,Seven Sisters
+140,33,Camden Town,86,Gunnersbury
+141,193,South Harrow,10,Arsenal
+142,216,Charing Cross,260,Bermondsey
+143,201,Stepney Green,257,Heathrow Terminal Four
+144,248,Woodside Park,201,Stepney Green
+145,79,Golders Green,2,Barbican
+146,33,Camden Town,191,Southfields
+147,22,Blackhorse Road,221,Upney
+148,228,Warwick Avenue,246,Woodford
+149,260,Bermondsey,129,London Bridge
+150,77,Gants Hill,72,Farringdon
+151,219,Turnpike Lane,12,Balham
+152,179,Ruislip,88,Hammersmith (D&P)
+153,124,Latimer Road,30,Buckhurst Hill
+154,223,Uxbridge,219,Turnpike Lane
+155,92,Harrow & Wealdstone,14,Barking
+156,187,Shepherds Bush,171,Queensway
+157,14,Barking,127,Leytonstone
+158,259,Southwark,108,Hounslow West
+159,126,Leyton,213,Tottenham Hale
+160,203,Stonebridge Park,79,Golders Green
+161,36,Chalfont & Latimer,248,Woodside Park
+162,81,Goodge Street,268,Wimbledon
+163,108,Hounslow West,221,Upney
+164,185,St Pauls,149,Northolt
+165,182,Russell Square,6,Amersham
+166,130,Loughton,24,Borough
+167,30,Buckhurst Hill,120,Knightsbridge
+168,219,Turnpike Lane,2,Barbican
+169,232,Wembley Park,77,Gants Hill
+170,3,Aldgate,214,Totteridge & Whetstone
+171,71,Fairlop,169,Queensbury
+172,63,East Putney,261,Canada Water
+173,210,Tooting Bec,181,Ruislip Manor
+174,197,South Wimbledon,33,Camden Town
+175,146,North Ealing,191,Southfields
+176,211,Tooting Broadway,273,Camberwell
+177,206,Sudbury Town,34,Cannon Street
+178,48,Colindale,261,Canada Water
+179,180,Ruislip Gardens,233,West Acton
+180,114,Kentish Town,84,Greenford
+181,258,Heathrow Terminal Five,84,Greenford
+182,47,Cockfosters,67,Elm Park
+183,36,Chalfont & Latimer,39,Embankment
+184,113,Kensington (Olympia),132,Manor House
+185,32,Caledonian Road,135,Marylebone
+186,99,Highgate,169,Queensbury
+187,54,Debden,198,South Woodford
+188,25,Boston Manor,209,Theydon Bois
+189,123,Lancaster Gate,143,Neasden
+190,14,Barking,1,Acton Town
+191,163,Perivale,123,Lancaster Gate
+192,79,Golders Green,21,Blackfriars
+193,164,Piccadilly Circus,133,Mansion House
+194,69,Euston,140,Moor Park
+195,135,Marylebone,178,Royal Oak
+196,132,Manor House,78,Gloucester Road
+197,245,Wimbledon Park,217,Tufnell Park
+198,12,Balham,102,Holborn
+199,66,Elephant & Castle,130,Loughton
+200,143,Neasden,44,Clapham Common
